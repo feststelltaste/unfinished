@@ -6,7 +6,7 @@ subtitle: Legacy Systems are just an indicator for a sucessful business.
 
 profile:
   align: right
-  image: markus_harrer.jpg
+  image: markusharrer.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><b>Markus Harrer</b></p>
